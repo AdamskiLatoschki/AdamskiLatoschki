@@ -2,11 +2,10 @@
 <br>
 <br>
 <br>
-<br>
 
 <img align="right" width="40%" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=667&h=500&auto=format">
 
-🔭 I’m currently working on various projects in Python.
+🔭 I’m currently working on my first portoflio.
 
 🌱 I’m currently learning **Python, Django and SQL** with HyperionDev 
 
